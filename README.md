@@ -15,7 +15,7 @@
 &nbsp;&nbsp;
 <a href="https://t.me/Frontend_deveIoper" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Frontend_deveIoper" height="35" width="40" /></a>
 &nbsp;&nbsp;
-<a href="tel:+998934905134" <img align="center" src="https://freesvg.org/img/phone-call-icon.png" alt="call" height="40" width="40" /></a>
+<a href="tel:+998934905134"> <img align="center" src="https://freesvg.org/img/phone-call-icon.png" alt="call" height="40" width="40" /></a>
 </p>
 <p align="left">
     <h3 align="left">Frontend:</h3>
