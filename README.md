@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravshanov Miraziz</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<!-- <h3 align="center">A passionate frontend developer from Uzbekistan</h3> -->
 
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-7b994de7e7f9a66bf9c71dc68ebb9330">
 
