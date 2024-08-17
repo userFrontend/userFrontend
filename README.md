@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-7b994de7e7f9a66bf9c71dc68ebb9330">
 
 
-<b>📊 All of my projects are available at:</b> <br/> [https://fullstack-devs.netlify.app/](https://fullstack-devs.netlify.app/)
+<b>📊 All of my projects are available at:</b> [https://fullstack-devs.netlify.app/](https://fullstack-devs.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
