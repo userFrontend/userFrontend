@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Ravshanov Miraziz</h1>
 <!-- <h3 align="start">A passionate frontend developer from Uzbekistan</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=userfrontend&label=Profile%20views&color=0e75b6&style=flat" alt="userfrontend" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=userfrontend&label=Profile%20views&color=0e75b6&style=flat" alt="userfrontend" /> </p>
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-7b994de7e7f9a66bf9c71dc68ebb9330">
 
 <b>📊 All of my projects are available at:</b> </br> [https://fullstack-devs.netlify.app/](https://fullstack-devs.netlify.app/)
