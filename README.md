@@ -4,15 +4,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=userfrontend&label=Profile%20views&color=0e75b6&style=flat" alt="userfrontend" /> </p>
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-7b994de7e7f9a66bf9c71dc68ebb9330">
 
-<b>📊 All of my projects are available at:</b> </br> [Click me to open the site.](https://ravmira.vercel.app/)
+<b>📊 All of my projects are available at:</b> </br> [ravmiraziz.uz](https://ravmira.uz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/_offical_developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_offical_developer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ravmiraziz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_offical_developer" height="30" width="40" /></a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/miraziz-ravshanov-38630730a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miraziz ravshanov" height="30" width="40" /></a>
 &nbsp;&nbsp;
-<a href="https://t.me/Frontend_deveIoper" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Frontend_deveIoper" height="35" width="40" /></a>
+<a href="https://t.me/RavMiraziz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Frontend_deveIoper" height="35" width="40" /></a>
 <!-- <a href="tel:+998934905134"> <img align="center" src="https://freesvg.org/img/phone-call-icon.png" alt="call" height="40" width="40" /></a> -->
 </p>
 <p align="left">
